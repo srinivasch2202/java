@@ -1,7 +1,7 @@
 public class loop {
     public static void main(String[] args) {
         // if(true){
-        //     System.out.println("hello");
+        //     System.out.println("hello");ll
         // }
 
         // int num=1;

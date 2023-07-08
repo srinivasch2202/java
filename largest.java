@@ -3,7 +3,7 @@ public class largest {
         int a=31;
         int b=41;
         int c=500;
-        if(a<b & b <c){
+        if(a<b && b <c){
             System.out.println("c is bigger");
         }
         else if(a<b){

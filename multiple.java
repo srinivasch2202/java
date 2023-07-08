@@ -7,7 +7,7 @@ public class multiple {
         if(sal <5000){
             System.out.println("no bonus ");
         }
-        else if(sal<10000 & sal>5000 ){
+        else if(sal<10000 && sal>5000 ){
             System.out.println("1000 bouns");
             
         }
